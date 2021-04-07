@@ -1,0 +1,18 @@
+Intsall Express
+# npm install Express
+
+Reload automaticaly the server 
+# npm install nodemon 
+# Add te line down below to the package.json file 
+"start" :  "nodemon app.js"
+
+Install REST Client Extension 
+# REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+# create a file with .http extension 
+# Write the request like this : GET http://localhost:3000/users
+
+Using a database 
+# npm install mongoose 
+
+Install dotenv s
+# npm install dotenv
