@@ -1,4 +1,6 @@
-<span style=""> Backend & REST API [Node JS - Express - Mongodb Atlas] <span style="font-size:11px; font-style:italic"> - by ng_xcv 😁 </span></span>
+<p> 
+<h2>Backend & REST API [Node JS - Express - Mongodb Atlas] </h2> 
+<small><em> - by ng_xcv 😁 </em></small> </p>
 
 <a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a>
 <br/>
