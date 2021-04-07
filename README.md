@@ -22,8 +22,6 @@ npm start
 
 ---
 
-<br />
-
 ### Paquets Installés
 
 <br />
@@ -76,6 +74,8 @@ npm install dotenv
 ```
 
 <br />
+
+---
 
 ### Test avec Postman
 
