@@ -79,7 +79,7 @@ npm install dotenv
 
 ### Test avec Postman
 
-<img src="images/gif/testing-api.gif">
+<img src="images/gif/testing-api-gif.gif">
 
 <br/>
 <br/>
