@@ -33,7 +33,7 @@ npm install Express
 ```
 
 <br />
-Recharger automatiquement le server
+Recharger automatiquement le serveur
 
 ```json
 npm install nodemon
@@ -51,8 +51,8 @@ Ajouter la cette ligne dans le fichier package.json file => "start" : "nodemon a
 Extension REST Client permet d'envoyer des requêtes HTTP et de visualiser la réponse directement dans Visual Studio Code.
 
 ```html
-# Créer un fichier avec comme extension .http Requête : GET
-http://localhost:3000/users
+# Créer un fichier avec comme extension .http <br />
+Requête : GET http://localhost:3000/users
 ```
 
 <br />
@@ -79,7 +79,7 @@ npm install dotenv
 
 ### Test avec Postman
 
-<img src="images/gif/testing-api-gif.gif">
+<img src="images/gif/testing-api-gif.gif" />
 
 <br/>
 <br/>
